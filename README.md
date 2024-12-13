@@ -2,7 +2,7 @@
 
 Hey 👋 My name is Rubén!
 
-![background](media/background.webp)
+![background](media/background.jpg)
 
 Computer enthusiast
 
