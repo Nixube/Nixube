@@ -7,7 +7,9 @@ Hey 👋 My name is Rubén!
 Computer enthusiast
 
 ✨ Creating bugs since always
+
 📚 Now I am learning to manage web applications and data access
+
 🎯 Goals: Future Elon Musk
 
 ## Skills
