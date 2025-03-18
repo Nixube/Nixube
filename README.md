@@ -12,6 +12,8 @@ Computer enthusiast
 
 🎯 Goals: Future Elon Musk
 
+![Profile Count](https://komarev.com/ghpvc/?username=Nixube&abbreviated=true&style=for-the-badge&label=Profile+views)
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,docker,debian,linux,java,mongodb,sqlite,mysql,nginx&perline=10)](https://skillicons.dev)
