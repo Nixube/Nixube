@@ -10,8 +10,6 @@ Computer enthusiast
 
 📚 Now I am learning to manage web applications and data access
 
-🎯 Goals: Future Elon Musk
-
 ![Profile Count](https://komarev.com/ghpvc/?username=Nixube&abbreviated=true&style=for-the-badge&label=Profile+views)
 
 ## Skills
