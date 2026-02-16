@@ -2,7 +2,7 @@
 
 Hey 👋 My name is Rubén!
 
-![background](media/background.jpg)
+![background](media/Kilua-and-Gon-sleeping)
 
 Computer enthusiast
 
