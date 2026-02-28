@@ -14,7 +14,7 @@ Computer enthusiast
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,docker,debian,linux,java,mongodb,sqlite,mysql,nginx&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arch,arduino,astro,azure,cloudflare,css,debian,discord,docker,eclipse,fastapi,firebase,flutter,git,github,gitlab,gmail,hibernate,html,java,js,kali,kotlin,linux,maven,mongodb,mysql,netlify,nginx,nodejs,npm,ps,php,obsidian,postgres,postman,powershell,py,raspberrypi,react,redhat,ruby,spring,sqlite,supabase,tailwind,ts,ubuntu,vscode,wordpress,&perline=15)](https://skillicons.dev)
 
 ## Statistics
 <!-- ![Nixube's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixube&show_icons=true&theme=radical) -->
